@@ -14,8 +14,4 @@
   limitations under the License. See accompanying LICENSE file.
 -->
 <configuration>
-    <property>
-        <name>mapred.child.java.opts</name>
-        <value>-Xmx2g</value>
-    </property>
 </configuration>
