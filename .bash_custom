@@ -1,0 +1,7 @@
+export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+export HADOOP_HOME=~/lib/hadoop-2.7.1
+export HADOOP_PREFIX=$HADOOP_HOME
+export PIG_HOME=~/lib/pig-0.15.0
+
+export PATH=$PATH:$HADOOP_HOME/bin:$PIG_HOME/bin
+
